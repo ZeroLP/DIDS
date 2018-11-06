@@ -1,0 +1,14 @@
+{
+  "name": "dids",
+  "version": "1.0.0",
+  "description": "Discord User ID Scraper",
+  "main": "dids.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zero",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
