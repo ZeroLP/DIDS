@@ -1,4 +1,7 @@
 # DIDS - Discord ID Scraper
+
+DIDS Script can scrape a whole server member's User ID and outputs it to a JSON file.
+
 **WARNING**
 This scraper script is against the [Discord's Terms of Service](https://discordapp.com/terms) when used on a User Account (Self-bot).
 Use at your own risk!
