@@ -1,6 +1,8 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
+const config = require("./config.json");
 const fs = require("fs");
+
 
 client.on('ready', () => {  
     console.log("DIDS has been successfully launched!\nAwaiting to join a guild...");
@@ -52,4 +54,4 @@ client.on("guildCreate", async function(guild) { //On GuildCreate(On joining a s
       }		  
     
 });
-    client.login("INSERT_TOKEN_HERE");
+    client.login(config.token);
