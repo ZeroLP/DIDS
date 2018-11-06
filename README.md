@@ -24,6 +24,7 @@ Once finished:
 > {
 >       "token": "ABCD1234.EFGHI213432"
 >     }
+Token "ABCD1234.EFGHI213432" was used as a reference, to run it without an error, use your own token.
 
 ## Running DIDS
 
