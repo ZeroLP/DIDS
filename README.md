@@ -33,6 +33,6 @@ If any error occurs, try googling it up first.
 
 If you still can't find any resolution after googling, please push the issue in the format below:
 
-> Node Version: 
-> Discord.JS Version: 
-> Error: [Copy and paste the error here that was outputted]
+`Node Version: 
+Discord.JS Version: 
+Error: [Copy and paste the error here that was outputted]`
